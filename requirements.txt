@@ -1,0 +1,4 @@
+requests
+phonenumbers
+
+python3 -c "import requests, phonenumbers; print('Requirements OK')"
