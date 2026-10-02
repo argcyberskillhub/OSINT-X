@@ -6,24 +6,24 @@
 # authorized to investigate. Port scanning should only be used on authorized
     # systems.
 
-    import os
-    import socket
-    import time
-    import re
-    import shutil
-    import concurrent.futures
-    from urllib.parse import quote
+import os
+import socket
+import time
+import re
+import shutil
+import concurrent.futures
+from urllib.parse import quote
 
-    try:
-        import requests
-    except ImportError:
-        requests = None
+try:
+    import requests
+except ImportError:
+    requests = None
 
-    try:
-        import phonenumbers
-        from phonenumbers import geocoder, carrier, timezone
-    except ImportError:
-        phonenumbers = None
+try:
+    import phonenumbers
+    from phonenumbers import geocoder, carrier, timezone
+except ImportError:
+    phonenumbers = None
 
 
 
