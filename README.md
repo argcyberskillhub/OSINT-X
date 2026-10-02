@@ -4,7 +4,7 @@
  OSINT-X // PASSIVE INTELLIGENCE CONSOLE
 
 <p align="center">
-  <img src="assets/osint-x.png" width="600">
+  <img src="assets/osint-x.png" width="500">
 </p>
 
 DOMAIN • DNS • PORTS • SUBDOMAINS • USERNAME • PHONE
