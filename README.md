@@ -4,7 +4,7 @@
  OSINT-X // PASSIVE INTELLIGENCE CONSOLE
 
 <p align="center">
-  <img src="assets/osint-x.png" width="700">
+  <img src="assets/osint-x.png" width="600">
 </p>
 
 DOMAIN • DNS • PORTS • SUBDOMAINS • USERNAME • PHONE
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ▶️ Usage
 Start OSINT-X:
 ``` command
-python3 main.py
+python3 OSINT-X.py
 ```
 
 👨‍💻 Author
